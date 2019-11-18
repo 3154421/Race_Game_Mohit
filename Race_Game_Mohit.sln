@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race_Game_Mohit", "Race_Game_Mohit\Race_Game_Mohit.csproj", "{D7B986B4-6A86-43E8-939E-0054A2C7A2B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race_Game_MohitTests", "Race_Game_MohitTests\Race_Game_MohitTests.csproj", "{F3D64F85-3427-42F2-9937-687AF39CD360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B986B4-6A86-43E8-939E-0054A2C7A2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B986B4-6A86-43E8-939E-0054A2C7A2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B986B4-6A86-43E8-939E-0054A2C7A2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B986B4-6A86-43E8-939E-0054A2C7A2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D64F85-3427-42F2-9937-687AF39CD360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D64F85-3427-42F2-9937-687AF39CD360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D64F85-3427-42F2-9937-687AF39CD360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D64F85-3427-42F2-9937-687AF39CD360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1C507EC-46EF-4E2B-B67D-17A9C7DFDF1F}
+	EndGlobalSection
+EndGlobal
